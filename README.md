@@ -1,36 +1,41 @@
-# OS / Linux Practice
+# OS / Linux Practice Toolkit
 
-This repository contains structured Linux commands and system operations for learning Operating Systems fundamentals.
+A structured collection of Linux commands, system notes, and shell scripts for Operating System practice.
 
 ---
 
-## 📌 Contents
+## 📌 What This Repo Contains
 
-- Linux Commands Basics
-- File Operations
-- User Management
-- System Commands
+### 🧠 Linux Fundamentals
+- System commands
+- File operations
+- User management
+- Process and system control
+
+### 🧪 Shell Scripts
+- Basic automation scripts
+- System information scripts
+- File creation automation
+
+---
+
+## 🛠 Scripts Included
+
+- hello.sh → basic system output
+- file_creator.sh → dynamic file creation
+- system_info.sh → system details display
 
 ---
 
 ## 🎯 Purpose
 
-To build strong understanding of Linux and Operating System fundamentals through practical command references.
+To strengthen understanding of Linux and Operating Systems through practical command usage and shell scripting.
 
 ---
 
-## 🧠 Topics Covered
+## 🚀 Skills Practiced
 
-- File system navigation
-- User and permission management
-- System operations
-- Command-line usage
-
-  ## 🧪 Scripts
-
-This repository now includes basic shell scripts for Linux practice.
-
-### Scripts Included:
-- hello.sh → basic output script
-- file_creator.sh → creates files dynamically
-- system_info.sh → shows system information
+- Linux CLI
+- Bash scripting
+- System navigation
+- File and process handling
